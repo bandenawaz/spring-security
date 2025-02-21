@@ -55,6 +55,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>spring-boot-devops</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
